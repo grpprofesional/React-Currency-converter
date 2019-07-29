@@ -1,3 +1,2 @@
-# React upgraded currency converter done before
-
-this is a previous created currency converter that I have redone with React library
+# React-tutorial
+I'm doing a React tutorial and using github only to get used to it.
