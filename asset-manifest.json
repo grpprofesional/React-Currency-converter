@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Currency-converter/static/css/main.e31ea872.chunk.css",
+    "main.js": "/React-Currency-converter/static/js/main.550c9f59.chunk.js",
+    "main.js.map": "/React-Currency-converter/static/js/main.550c9f59.chunk.js.map",
+    "runtime~main.js": "/React-Currency-converter/static/js/runtime~main.ece9153c.js",
+    "runtime~main.js.map": "/React-Currency-converter/static/js/runtime~main.ece9153c.js.map",
+    "static/js/2.f2dd8a08.chunk.js": "/React-Currency-converter/static/js/2.f2dd8a08.chunk.js",
+    "static/js/2.f2dd8a08.chunk.js.map": "/React-Currency-converter/static/js/2.f2dd8a08.chunk.js.map",
+    "index.html": "/React-Currency-converter/index.html",
+    "precache-manifest.255aeebebc801204d94a1c820505acf2.js": "/React-Currency-converter/precache-manifest.255aeebebc801204d94a1c820505acf2.js",
+    "service-worker.js": "/React-Currency-converter/service-worker.js",
+    "static/css/main.e31ea872.chunk.css.map": "/React-Currency-converter/static/css/main.e31ea872.chunk.css.map"
+  }
+}
