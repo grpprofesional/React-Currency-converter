@@ -1,2 +1,6 @@
-# React-tutorial
-I'm doing a React tutorial and using github only to get used to it.
+# React based Currency converter
+
+Hi there!
+I did a great upgrade to my original currency converter using React.
+
+You can find a live version here: https://grpprofesional.github.io/React-Currency-converter/
